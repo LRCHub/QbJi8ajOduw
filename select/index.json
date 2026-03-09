@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "青春狂騒曲（NARUTO-ナルト-Opening MIX）",
+  "base_artist": "Sambomaster",
+  "createdAt": "2026-03-09T20:37:41.561837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春狂騒曲（NARUTO-ナルト-Opening MIX）",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/01_青春狂騒曲(NARUTO-ナルト-Opening_MIX)_Sambomaster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_02_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_03_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_04_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_05_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_06_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_07_青春狂騒曲_サンボマスター.txt"
+    }
+  ]
+}
